@@ -22,25 +22,32 @@
 # Capturas de pantalla #
 
 ![](docs/images/01.png)
+
 Se agrega permisos de conexión a internet en la aplicación.
 
 Adición de librerias:
+
 ![](docs/images/02.png)
 ![](docs/images/03.png)
 
 ![](docs/images/05.png)
+
 Pueba de aplicación y listado de productos.
 
 ![](docs/images/06.png)
+
 Actualizar precio de producto.
 
 ![](docs/images/07.png)
+
 Creción de nuevo producto.
 
 ![](docs/images/08.png)
+
 Búsqueda de producto.
 
 ![](docs/images/09.png)
+
 Eliminar producto.
 
 # Explicación de MVVM + Retrofit #
